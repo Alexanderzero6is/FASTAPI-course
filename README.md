@@ -12,7 +12,7 @@ Comprobar la versión de python de su ordenador, se comprueba de la siguiente ma
 python3 -V 
 ```
 
-# Crear el entorno virtual y seleccionarlo
+### Crear el entorno virtual y seleccionarlo
 Abrimos la terminal de Vscode y escribimos:
 ```
 python3 -m venv [nombre del entorno virtual]
